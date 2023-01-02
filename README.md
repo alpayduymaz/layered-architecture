@@ -1,1 +1,1 @@
-# NullNameProject
+# enterprise layered architecture init
