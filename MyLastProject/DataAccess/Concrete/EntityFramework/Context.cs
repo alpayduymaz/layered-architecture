@@ -11,7 +11,7 @@ namespace DataAccess.Concrete.EntityFramework
     public class Context:DbContext
     {
 
-        public override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server:DESKTOP-H0M8STK\MSSQL;Database=MyLastDatabase;TrustedConnection=true");
         }

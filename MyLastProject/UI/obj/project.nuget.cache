@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2mo2XKCPgBuf/je6U0Gp5aBWn2yxMeZFLg2tNfkk/goUv6Jq1QFF3vZsnMWkxTXnCYQCR0vafA9ozTmDVs1EQQ==",
+  "dgSpecHash": "ncyVslymF6bZSDMXx/kM4U5oQ4yXiceLh+eNV/oBgwIsdLJJR7fMg2p7Dsu0zUruShnnrpeuqS/VE4Hc+alT5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alpay\\source\\repos\\MyLastProject\\UI\\UI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alpay\\Source\\Repos\\layered-architecture\\MyLastProject\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alpay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alpay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alpay\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
