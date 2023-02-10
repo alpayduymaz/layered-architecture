@@ -1,1 +1,1 @@
-# enterprise layered architecture init
+# enterprise layered architecture
