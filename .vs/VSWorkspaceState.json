@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyLastProject",
+    "\\MyLastProject\\CORE",
+    "\\MyLastProject\\CORE\\Security",
+    "\\MyLastProject\\CORE\\Security\\JWT"
+  ],
+  "SelectedNode": "\\MyLastProject\\CORE\\Security\\JWT\\AccessToken.cs",
+  "PreviewInSolutionExplorer": false
+}

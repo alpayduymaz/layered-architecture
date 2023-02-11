@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "na1CTR6Mp09McKVMqYzBewIxcA3YA5PTy/ST9d9r/FTsB5FtBcEBBzCfQ98qXlPLrbglWh+s2xwaybuQZJwCDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alpay\\source\\repos\\layered-architecture\\.net project\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alpay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alpay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alpay\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
